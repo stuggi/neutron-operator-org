@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"github.com/neutron-operator/pkg/controller/neutronovsagent"
+	"github.com/stuggi/neutron-operator/pkg/controller/neutronovsagent"
 )
 
 func init() {

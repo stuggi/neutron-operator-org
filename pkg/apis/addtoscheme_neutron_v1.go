@@ -1,7 +1,7 @@
 package apis
 
 import (
-	v1 "github.com/neutron-operator/pkg/apis/neutron/v1"
+	v1 "github.com/stuggi/neutron-operator/pkg/apis/neutron/v1"
 )
 
 func init() {
